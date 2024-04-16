@@ -1,0 +1,42 @@
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #E01A76;
+}
+
+main{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.images-container {
+  display: flex;
+  justify-content: space-evenly;
+  width: 80px;
+  background-color: #0366d6;
+  margin-bottom: 30px;
+}
+
+.image {
+  width: 100%;
+}
+
+.puzzle-map {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 800px;
+  height: 800px;
+  background-color: #0366d6;
+}

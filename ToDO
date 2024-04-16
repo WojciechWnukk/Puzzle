@@ -1,0 +1,11 @@
+Cel:
+Stworzenie gry puzzle w której w osoby rywalizują ze sobą która pierwsza ułoży daną plansze puzli.
+
+Etapy:
+1. Stworzenie puzzli dla 1 osoby
+2. Poprzez websocket połączenie dwóch graczy
+3. Dodanie timerów, po wygranej czas gracza przesyłać socketem
+4. Dodanie możliwości wyboru planszy
+5. Dodanie możliwości wyboru ilości puzzli
+6. Dodanie możliwości wyboru obrazka
+7. Dodanie chatu
